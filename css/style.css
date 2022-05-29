@@ -1,0 +1,16 @@
+.box{
+	margin: 10px 0;
+	min-height: 100px;
+	font-size: 50px;
+	text-align: center;
+	background-color: red;
+}
+/*.Header{
+	margin: 10px 0;
+}*/
+.red{
+	background-color: lime;
+}
+.five{
+	background-color: blue;
+}

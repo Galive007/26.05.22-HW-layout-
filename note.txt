@@ -1,0 +1,89 @@
+psd to html
+	psd
+
+
+colors:
+ash #626262
+
+black #000000
+
+ ubontu ash #b4ad9e
+
+section define-7
+layout efine
+	full complete
+
+asset gather:
+	logo
+	img
+	icon
+	text
+	font
+
+fonts
+	[Inconsolata] regular
+	[PlayfairDisplay] regular ------
+	[Ubuntu] light --
+
+
+
+
+css her..
+	font-family
+	font-size
+	font-weight
+	color
+	text-transform
+	text-align
+	line-h
+	letter-s
+	word-s
+
+
+	width
+	height
+
+	margin
+	padding
+
+
+reuseble-block:
+
+
+
+
+
+common-body
+
+
+
+ui ux
+	1.color combination
+		catagory
+		logo-color-2/3
+
+
+	2.typography
+		fonts-2/3
+
+	3.consistancy
+
+
+	4.spacing
+
+
+
+
+	button/link
+
+
+
+
+font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif;
+
+
+
+
+
+*********Bootstrap********
